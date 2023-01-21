@@ -1,0 +1,7 @@
+Entidade: Cliente
+Atributos:
+ - CPF [Simples]
+ - Nome [Simples]
+ - Data de Nascimento [Simples]
+ - Endereço [Composto, Multivalorado]
+ - Telefone [Multivalorado]
