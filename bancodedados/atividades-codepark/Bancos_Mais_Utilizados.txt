@@ -1,0 +1,28 @@
+Através de pesquisas realizadas, achei uma lista dos dez sistemas de banco de dados mais usados, 
+a lista foi realizada pelo Boson Treinamentos e é liderada pelo Oracle Database.
+Farei uma breve descrição dos bancos de dados que ocupam a segunda e quinta posição dessa lista, respectivamente:
+
+
+MySQL:
+
+É um sistema de gerenciamento de banco de daos relacional de código aberto, é amplamente utilizado para aplicações web
+e é compatível com diversas linguages de programação.
+
+Ele permite a criação de tabelas, inserção, atualização e exclusão de dados, bem como consultas
+complexas através do uso de comandos SQL.
+Ele também oferece recursos avançados como gerenciamento de usuários e privilégios, backup
+e recuperação de dados e otimização de desempenho.
+
+#===#===#===#===#===#===#===#===#===#===#===#===#===#===#===#===#===#===#===#===
+
+MongoDB:
+É um banco de dados NoSQL com código aberto, é projetado para lidar com grandes volumes de dados não estruturados oferencendo escalabilidade
+horizontal e alta disponibilidade.
+
+Ao invés de linhas e tabelas, ele usa coleções e documentos para armazenar dados. Os documentos são similares
+aos registros em um banco de dados relacional e são armazenados em formato JSON.
+
+Ele oferece recursos avançados como replicação, agregação e indexação flexíveis, além de suportar a consulta em
+grandes quantidades de dados.
+
+É amplamente utilizado em aplicações web, jogos, análise de dados e IoT.
