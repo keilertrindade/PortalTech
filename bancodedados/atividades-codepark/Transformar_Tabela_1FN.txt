@@ -1,0 +1,16 @@
+Pessoa:
+ - Identificador
+ - Nome
+ - Email
+ - Logradouro
+ - Numero
+ - CEP
+ - Cidade
+ - Estado
+ - País
+
+Contato:
+ - Identificador
+ - Pessoa_Identificador
+ - Telefone
+ 
