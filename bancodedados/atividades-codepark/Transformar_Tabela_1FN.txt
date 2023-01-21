@@ -1,13 +1,18 @@
 Pessoa:
  - Identificador
  - Nome
- - Email
  - Logradouro
  - Numero
  - CEP
  - Cidade
  - Estado
  - País
+
+Email:
+ - Identificador
+ - Identificador_Pessoa
+ - email
+
 
 Contato:
  - Identificador
